@@ -3,10 +3,10 @@
   "displayName": "choiheza-purple-teal-dark",
   "description": "a purple and teal dark mode theme made by choiheza",
   "version": "0.0.1",
-  "publisher" : "choiheza",
+  "publisher": "HeatherForde",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/ChoiHeza/choiheza-purple-teal-dark"
+    "type": "git",
+    "url": "https://github.com/ChoiHeza/choiheza-purple-teal-dark"
   },
   "keywords": [
     "dark theme",
