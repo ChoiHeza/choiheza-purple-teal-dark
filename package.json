@@ -1,0 +1,33 @@
+{
+  "name": "choiheza-purple-teal-dark",
+  "displayName": "choiheza-purple-teal-dark",
+  "description": "a purple and teal dark mode theme made by choiheza",
+  "version": "0.0.1",
+  "publisher" : "choiheza",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ChoiHeza/choiheza-purple-teal-dark"
+  },
+  "keywords": [
+    "dark theme",
+    "purple theme",
+    "teal theme",
+    "choiheza",
+    "purple and teal theme"
+  ],
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "choiheza-purple-teal-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/choiheza-purple-teal-dark-color-theme.json"
+      }
+    ]
+  }
+}
